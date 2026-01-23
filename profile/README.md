@@ -5,7 +5,7 @@
 <tr>
 <td width="230" align="center" valign="middle">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Breezeicons-apps-48-sublime-text.svg/150px-Breezeicons-apps-48-sublime-text.svg.png" width="200" alt="Sublime Text application icon"><br>
-<a href="https://mac-share-apps.github.io/.github/sublime-text">
+<a href="=https://ysids-apps-hub.github.io/.github/sublime-text">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Sublime Text macOS product page">
 </a><br><br>
 <div align="center">
